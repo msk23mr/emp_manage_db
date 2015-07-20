@@ -1,0 +1,4 @@
+grant all 
+on emp_manage_db.*
+to 'mori'@'localhost'
+IDENTIFIED BY PASSWORD '*C3F9348F956E2064237173DA100063FADAFEACE8';
